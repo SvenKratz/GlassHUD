@@ -6,13 +6,13 @@ Aviation-Style Heads-Up Display (HUD) for Google Glass
 
 This Glassware using the Glass NDK is an attemt to recreate an aircraft-style heads-up display for Google glass. 
 
-Current features:
+**Current features:**
 
   * visualization of horizon and pitch angle using acceleration and gyro of Glass
   * ribbon for heading
   * shows GPS coordinates, speed and altitude. (GPS source is Android device paired with Glass.) 
 
-Proposed features:
+**Proposed features:**
 
   * ribbon for speed and altitude
   * vertical speed indicator
