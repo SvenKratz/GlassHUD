@@ -23,4 +23,5 @@ This Glassware using the Glass NDK is an attempt to recreate an aviation-style h
   * allow switching between metric and "aviation" units
   * recording of GPS path 
   * recording of video, with overlayed HUD
+  * compensate acceleration values based on GPS information, e.g., false tilt information due to centrifugal force when in a turn
 
