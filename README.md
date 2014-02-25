@@ -4,6 +4,8 @@ GlassHUD
 Aviation-Style Heads-Up Display (HUD) for Google Glass
 -----------
 
+![alt text](https://github.com/SvenKratz/GlassHUD/blob/master/ScreenShots/glasshud.png "GlassHUD Screen Shot")
+
 This Glassware using the Glass NDK is an attemt to recreate an aircraft-style heads-up display for Google glass. 
 
 **Current features:**
